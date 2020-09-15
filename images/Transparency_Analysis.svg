@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 17.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="1109.882px" height="805.889px" viewBox="440.118 593.111 1109.882 805.889"
+	 enable-background="new 440.118 593.111 1109.882 805.889" xml:space="preserve">
+<g id="Transparency_analysis_1_">
+	<polygon fill="#C0E2FE" points="1424,692 1424,1386 516,1386 516,1158 836,927 1130,976 	"/>
+	<path fill="#1B7EFF" d="M508,1210c-8,0-17-4-22-11c-10-12-8-30,4-40l310-253c7-5,15-8,23-6l287,54l300-316c11-11,29-12,40-1
+		c11,11,12,29,1,40l-311,327c-7,7-17,10-26,8l-290-55l-301,245C520,1208,514,1210,508,1210z"/>
+	<rect x="505" y="1190" fill="#1B9DFF" width="27" height="196"/>
+	<rect x="810" y="914" fill="#1B9DFF" width="27" height="472"/>
+	<rect x="1113" y="992" fill="#1B9DFF" width="26" height="395"/>
+	<rect x="1408" y="703" fill="#1B9DFF" width="26" height="683"/>
+	<circle fill="#FBD872" cx="515" cy="1188" r="65"/>
+	<circle fill="#FBD872" cx="822" cy="925" r="65"/>
+	<circle fill="#FBD872" cx="1423" cy="666" r="65"/>
+	<circle fill="#FBD872" cx="1124" cy="981" r="86"/>
+	<g>
+		<g>
+			<path fill="#1B9DFF" d="M946,796c-94,94-94,246,0,340s246,94,340,0c94-94,94-246,0-340C1192,702,1040,702,946,796z M1235,1084
+				c-65,65-171,65-237,0c-65-65-65-171,0-237s171-65,237,0C1300,913,1300,1019,1235,1084z"/>
+			<path fill="#1B9DFF" d="M1401,1234l-17,17c-14,14-36,14-49,0l-94-94c-14-14-14-36,0-49l17-17c14-14,36-14,49,0l94,94
+				C1415,1198,1415,1220,1401,1234z"/>
+			<g>
+				<path fill="#1B7EFF" d="M1535,1354l-30,30c-20,20-53,20-74,0l-130-130c-20-20-20-53,0-74l30-30c20-20,53-20,74,0l130,130
+					C1555,1301,1555,1334,1535,1354z"/>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>

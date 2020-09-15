@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 17.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="1114.737px" height="978.098px" viewBox="435.263 513.27 1114.737 978.098"
+	 enable-background="new 435.263 513.27 1114.737 978.098" xml:space="preserve">
+<g id="Token_Vertification_1_">
+	<path fill="#1B9DFF" d="M1409,529c78,0,141,63,141,141v30H971v-30c0-75-58-136-131-141c3,0,7,0,10,0H1409z"/>
+	<path fill="#C0E2FE" d="M1289,1312V671c0-75,58-136,131-141c-3,0-7,0-10,0H852c-78,0-141,63-141,141v641H1289z"/>
+	<path fill="#C0E2FE" d="M852,529c-78,0-141,63-141,141v30h579v-30c0-75,58-136,131-141c-3,0-7,0-10,0H852z"/>
+	<circle fill="#FFFFFF" cx="999" cy="800" r="124"/>
+	<path fill="#C0E2FE" d="M1148,1471c78,0,141-63,141-141v-30H711v30c0,75-58,136-131,141c3,0,7,0,10,0H1148z"/>
+	<path fill="#1B9DFF" d="M591,1471c-78,0-141-63-141-141v-30h579v30c0,75,58,136,131,141c-3,0-7,0-10,0H591z"/>
+	<g>
+		<circle fill="#FBD872" cx="854" cy="1009" r="31"/>
+		<circle fill="#FBD872" cx="953" cy="1009" r="31"/>
+		<circle fill="#FBD872" cx="1052" cy="1009" r="31"/>
+		<circle fill="#FBD872" cx="1151" cy="1009" r="31"/>
+	</g>
+	<path fill="#1B7EFF" d="M995,947c-79,0-143-64-143-143s64-143,143-143s143,64,143,143S1074,947,995,947z M995,692
+		c-62,0-112,50-112,112s50,112,112,112s112-50,112-112S1057,692,995,692z"/>
+	<path fill="#1B7EFF" d="M994,873c-4,0-8-2-11-5l-57-58c-6-6-6-16,0-22s16-6,22,0l42,43l64-117c4-7,13-10,21-6c7,4,10,13,6,21
+		l-74,135c-2,4-7,7-11,8C995,873,995,873,994,873z"/>
+	<path fill="#1B9DFF" d="M1211,1159H794c-12,0-22-10-22-22l0,0c0-12,10-22,22-22h417c12,0,22,10,22,22l0,0
+		C1233,1149,1223,1159,1211,1159z"/>
+	<path fill="#1B9DFF" d="M1145,1247H860c-12,0-22-10-22-22l0,0c0-12,10-22,22-22h285c12,0,22,10,22,22l0,0
+		C1167,1237,1157,1247,1145,1247z"/>
+</g>
+</svg>
